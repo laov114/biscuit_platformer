@@ -12,6 +12,7 @@ config_version=5
 
 config/name="Biscuit Platformer"
 config/description="Brackeys' Platformer, but for biscuits."
+config/version="1.0.1"
 run/main_scene="uid://didjcn8aygtt0"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="uid://bodbrvtwbim6g"
