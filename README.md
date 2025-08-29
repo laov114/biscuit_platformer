@@ -1,4 +1,6 @@
-A simple platformer for biscuit :)
+# Biscuit Platformer
+
+## A simple platformer for biscuit :)
 
 Based on [first-game-in-godot](https://github.com/Brackeys/first-game-in-godot).
 
